@@ -52,7 +52,7 @@ var cnItems = {
     "Double chance of coin landing on it's side": "硬币落在它的一侧的机会加倍",
     "Flip coins 20% faster": "翻转硬币的速度提高 20%",
     "Flip time:": "翻转时间：",
-    "Gain 2x more points when a coin lands on it's side": "当硬币落在它的一侧时获得 2 倍以上的积分",
+    "Gain 2x more points when a coin lands on it's side": "当硬币落在它的一侧时获得 2 倍以上的点数",
     "Multiply all dice points by first dice": "将所有骰子点乘以第一个骰子",
     "Multiply all dice points by second dice": "将所有骰子点乘以第二个骰子",
     "Points:": "点数：",
