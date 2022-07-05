@@ -49,7 +49,7 @@ var cnItems = {
     "Dice point bonus:": "骰子点数奖励：",
     "Dice roll time:": "掷骰子时间：",
     "Dice size:": "骰子大小：",
-    "Double chance of coin landing on it's side": "硬币落在它的一侧的几率加倍",
+    "Double chance of coin landing on it's side": "硬币落下时为侧面的几率加倍",
     "Flip coins 20% faster": "翻转硬币的速度提高 20%",
     "Flip time:": "翻转时间：",
     "Gain 2x more points when a coin lands on it's side": "当硬币落在它的一侧时获得 2 倍以上的点数",
